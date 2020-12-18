@@ -1,0 +1,14 @@
+.App {
+    margin: 0;
+    background-color: #46E1B5;
+    height: 160px;
+}
+
+.main {
+    padding-top: 100px;
+}
+
+.title {
+    color: #16A89B;
+    font-weight: bolder;
+}
